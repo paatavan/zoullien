@@ -5,7 +5,9 @@ Je suis un développeur Node.js débutant dans la matière, et je suis surtout c
 J'aime travailler en solo, cela me permet de me concentrer davantage sur mes projets [Open Source](https://opensource.com/resources/what-open-source "OpenSource"). J'ai une passion pour la programmation et j'essaie continuellement d'améliorer mes compétences en développant des applications web et en contribuant à des projets open source.
 
 ## ✨ Projets récents
-- J'ai récemment travaillé sur un projet de gestion d'username Node.js et Discord.js. C'était une expérience enrichissante qui m'a permis de renforcer mes connaissances en Javascript
+- J'ai récemment travaillé sur un projet de gestion d'username Node.js et Discord.js. C'était une expérience enrichissante qui m'a permis de renforcer mes connaissances en Javascript.
+
+- J'ai récemment travaillé sur un projet de Dynamic Insland sur Windows 10/11 , mais cela est trop compliqué pour moi je n'y connais que trés peu.
 
 
 ## 📌 Liens supportaires 
