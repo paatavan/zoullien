@@ -5,9 +5,8 @@ Je suis un développeur Node.js débutant dans la matière, et je suis surtout c
 J'aime travailler en solo, cela me permet de me concentrer davantage sur mes projets [Open Source](https://opensource.com/resources/what-open-source "OpenSource"). J'ai une passion pour la programmation et j'essaie continuellement d'améliorer mes compétences en développant des applications web et en contribuant à des projets open source.
 
 ## Projets récents
-- J'ai récemment travaillé sur un projet de gestion des tâches en utilisant Node.js et MongoDB. C'était une expérience enrichissante qui m'a permis de renforcer mes connaissances en backend et en bases de données.
+- J'ai récemment travaillé sur un projet de gestion d'username Node.js et Discord.js. C'était une expérience enrichissante qui m'a permis de renforcer mes connaissances en Javascript
 
-- J'ai également contribué à un projet open source visant à créer une bibliothèque JavaScript pour les graphiques interactifs. C'était passionnant de collaborer avec d'autres développeurs et d'apprendre de nouvelles techniques de visualisation des données.
 
 ## 📈 Statistiques GitHub
 ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=zoullien&show_icons=true&theme=dark)
