@@ -8,7 +8,5 @@ J'aime travailler en solo, cela me permet de me concentrer davantage sur mes pro
 - J'ai récemment travaillé sur un projet de gestion d'username Node.js et Discord.js. C'était une expérience enrichissante qui m'a permis de renforcer mes connaissances en Javascript
 
 
-## 📈 Statistiques GitHub
-![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=zoullien&show_icons=true&theme=dark)
 
 N'hésite pas à me contacter si tu as besoin d'aide pour un projet ou si tu as des questions sur la programmation. Je serai ravi de t'assister dans tes projets et de partager mes connaissances avec toi !
