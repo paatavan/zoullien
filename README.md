@@ -7,7 +7,7 @@ J'aime travailler en solo, cela me permet de me concentrer davantage sur mes pro
 ## ✨ Projets récents
 - J'ai récemment travaillé sur un projet de gestion d'username Node.js et Discord.js. C'était une expérience enrichissante qui m'a permis de renforcer mes connaissances en Javascript.
 
-- J'ai récemment travaillé sur un projet de Dynamic Insland sur Windows 10/11 , mais cela est trop compliqué pour moi je n'y connais que trés peu.
+- J'ai récemment travaillé sur un projet de Website , C'était une expérience enrichissante.
 
 
 ## 📌 Liens supportaires 
